@@ -1,0 +1,25 @@
+name, image
+Nils,rockmand-2
+Sara,rockmand-1
+Børge,rockmand-2
+Sabine,rockmand-1
+Thorsten,rockmand-2
+Lina,rockmand-1
+Markus,rockmand-2
+Niels,rockmand-2
+Rikke,rockmand-1
+Silas,rockmand-2
+Lene,rockmand-1
+Rune,rockmand-2
+Jette,rockmand-1
+Herman,rockmand-2
+Rita,rockmand-1
+Margrethe,rockmand-1
+Lauritz,rockmand-2
+Judit,rockmand-1
+Alf,rockmand-2
+Frida,rockmand-1
+Yvonne,rockmand-1
+Annalise,rockmand-1
+Gabriel,rockmand-2
+Lauge,rockmand-2

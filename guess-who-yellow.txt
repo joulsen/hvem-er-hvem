@@ -1,0 +1,20 @@
+BORDER=RECTANGLE
+UNIT=MM
+PAGE=210,297,PORTRAIT,HV
+DPI=300
+CARDSIZE=34,50
+BASERANGE=,ON
+MARGINS=1,1,1,1
+
+LINK = "data.txt", name, image
+[final] = 1-{(name)}
+
+
+VISUAL=, 10, 10
+IMAGE=[final],"template/yellow.png",0%,0%,100%,100%
+HTMLFONT=NameFont,Arial,12,B,#000000,CENTER
+HTMLTEXT=[final],[name],0,85%,100%,30,#FFFFFF,0,BE,100,NameFont,NameFont
+IMAGE=[final],"resources/[image].png",3.5,6.5,28,28,0,N
+ENDVISUAL
+
+GAP=1,1,OFF,OFF,NONE
